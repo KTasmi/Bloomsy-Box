@@ -1,0 +1,234 @@
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form5.resources
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form6.resources
+D:\OOP-2 project document\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form7.resources
+F:\Study\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+F:\Study\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form1.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form3.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form4.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form5.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form6.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form7.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form8.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form9.resources
+F:\Study\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form10.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\BloomsyBox\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\BloomsyBox\BloomsyBox\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form1.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form10.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form11.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form3.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form4.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form5.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form6.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form7.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form8.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Form9.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\BloomsyBox\BloomsyBox\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.pdb
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form1.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form10.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form11.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form3.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form4.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form5.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form6.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form7.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form8.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form9.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.exe
+C:\Users\Majhbah\Desktop\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+F:\Study\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.seasonally.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.special.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.order.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.category.resources
+D:\OOP-2 project document\BloomsyBox edit 1-20211206T130700Z-001\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.category.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.seasonally.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.special.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.order.resources
+F:\Study\BloomsyBox edit 1\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+F:\Study\BloomsyBox EDIT\BloomsyBox\bin\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox EDIT\BloomsyBox\bin\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.category.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.seasonally.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.special.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.order.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox EDIT\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.category.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.Form2.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.seasonally.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.special.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.order.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\BloomsyBox EDIT_1\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\BloomsyBox EDIT_1\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_1\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_1\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_2\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\BloomsyBox EDIT_2\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_2\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.Admin_Login.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\BloomsyBox.Inventory.resources
+D:\BloomsyBox EDIT_2\BloomsyBox\obj\Debug\Canteen_Management_System.placeOrder.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\BloomsyBox EDIT_4\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_4\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.Admin_Login.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.placeOrder.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.Inventory.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_4\BloomsyBox\obj\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.pdb
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Admin_Login.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.placeOrder.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Inventory.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.exe
+F:\Study\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.AssemblyReference.cache
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.exe.config
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.exe
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\bin\Debug\BloomsyBox.pdb
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Admin_Login.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.createaccount.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.placeOrder.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.help2.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Inventory.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.payment.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.home.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.welcome.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.login.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.help.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Properties.Resources.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.GenerateResource.cache
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.csproj.CoreCompileInputs.cache
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Order.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Order_info.resources
+D:\BloomsyBox EDIT_6 (1)\BloomsyBox EDIT_5\BloomsyBox\obj\Debug\BloomsyBox.Thanks.resources
